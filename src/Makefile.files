@@ -60,7 +60,7 @@ MINUTILS_LIB_IMPLS := \
 
 MINUTILS_PACKAGES := \
   cstruct \
-  lwt  \
+  lwt ssl\
   ocplib-json-typed.bson \
   ocplib-resto.directory \
   $(COVERAGEPKG) \
